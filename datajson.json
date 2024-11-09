@@ -1,0 +1,407 @@
+{
+    "netoyannt ": [
+        {
+            "id": 1,
+            "reference": "ISDIN Micellar Solution Nettoyant visage hydratant",
+            "designation": "Eau micellaire démaquillante qui offre quatre actions en un seul geste: nettoie, démaquille, tonifie et hydrate",
+            "prixAchat": 150,
+            "image": "https://www.isdin.com/sites/default/files/productos/imagenes/be-thumbnails_ureadin-fusion-micellar-solution-400-ml_1_foto.jpg?v=1628583044"
+        },
+        {
+            "id": 2,
+            "reference": "Essential Cleansing",
+            "designation": "Huile nettoyante visage à la texture légère et douce qui nettoie le visage en profondeur.",
+            "prixAchat": 320,
+            "image": "https://www.isdin.com/sites/default/files/productos/imagenes/es_thumbnails_22_sept_isdinceutics_essential_cleansing_0.jpg?v=1663143130"
+        }
+    ],
+    "Contour des yeux": [
+        {
+            "id": 1,
+            "reference": "Isdinceutics Hyaluronic Eyes",
+            "designation": "Contour des yeux hydratant à base d’acide hyaluronique qui aide à prévenir les rides",
+            "prixVente": 210,
+            "image": "https://www.isdin.com/sites/default/files/productos/imagenes/es_4319_th_hyaluroniceyes_main_0.jpg?v=1716536177"
+        },
+        {
+            "id": 2,
+            "reference": "Isdinceutics Vital Eyes",
+            "designation": "Contour des yeux anti-rides à base de caféine et de mélatonine.",
+            "prixVente": 130,
+            "image": "https://www.isdin.com/sites/default/files/productos/imagenes/contentpack_vital-eyes_web_desktop_thumbnails_1.png?v=1603877604"
+        },
+        {
+            "id": 3,
+            "reference": "Isdinceutics K-Ox Eyes",
+            "designation": "Contour des yeux anti-poches et anti-cernes à la Vitamine K.",
+            "prixVente": 190,
+            "image": "https://www.isdin.com/sites/default/files/productos/imagenes/fr_thumbnails_k-ox-eyes-new_1_foto.png?v=1615568790"
+        }
+    ],
+    "Crèmes solaires visage": [
+        {
+            "id": 1,
+            "reference": "Fotoultra Redness SPF 50",
+            "designation": "Crème solaire visage pour les peaux sensibles qui corrige et aide à prévenir les rougeurs de la peau",
+            "prixVente": 60,
+            "image": "https://www.isdin.com/sites/default/files/productos/imagenes/es_4186_th_furednessspf5050ml_main_image_0.jpg?v=1709823721"
+        },
+        {
+            "id": 2,
+            "reference": "Fotoultra 100 Spot Prevent Color SPF 50+",
+            "designation": "Crème solaire visage teintée pour tous les jours qui aide à prévenir les taches dues au soleil",
+            "prixVente": 90,
+            "image": "https://www.isdin.com/sites/default/files/productos/imagenes/es_1349_th_fuspotpreventcolorspf5050ml_main_image_0.png?v=1707993535"
+        },
+        {
+            "id": 3,
+            "reference": "Fotoprotector Invisible Stick SPF 50",
+            "designation": "Crème solaire invisible en stick pour les zones sensibles au soleil, à l’application facile et pratique.",
+            "prixVente": 95,
+            "image": "https://www.isdin.com/sites/default/files/productos/imagenes/fr_4347_th_fpinvisiblestickspf5010g_main_image_0.jpg?v=1715869982"
+        },
+        {
+            "id": 4,
+            "reference": "Fusion Water MAGIC GLOW SPF 30",
+            "designation": "Crème solaire visage à la texture ultra-légère effet glow",
+            "prixVente": 65,
+            "image": "https://www.isdin.com/sites/default/files/productos/imagenes/es_1349_th_fpfwmagicglowspf3050ml_main_image_0.jpg?v=1707916295"
+        },
+        {
+            "id": 5,
+            "reference": "Fusion Water MAGIC SPF 50",
+            "designation": "À consommer sans modération et à remplir de moments magiques.",
+            "prixVente": 75,
+            "image": "https://www.isdin.com/sites/default/files/productos/imagenes/fr_1349_th_fpfusionwatermagicspf5050ml_main_image_0.png?v=1715868042"
+        },
+        {
+            "id": 6,
+            "reference": "Fusion Water MAGIC Repair SPF 50",
+            "designation": "Crème solaire visage haute protection ultra-légère, idéale pour un usage quotidien, et à la triple action anti-âge.",
+            "prixVente": 80,
+            "image": "https://www.isdin.com/sites/default/files/productos/imagenes/fr_2937_th_fuagerepairspf5050ml_main_image_0.jpg?v=1713338506"
+        },
+        {
+            "id": 7,
+            "reference": "Fotoultra 100 Spot Prevent SPF 50+ 50ml",
+            "designation": "Crème solaire très haute protection qui aide à prévenir les taches dues au soleil.",
+            "prixVente": 82,
+            "image": "https://www.isdin.com/sites/default/files/productos/imagenes/fr_0132_th_fuspotpreventspf5050ml_main_image_0.jpg?v=1713339733"
+        },
+        {
+            "id": 8,
+            "reference": "Fotoultra 100 Solar AllergySolar Allergy Protect SPF 50+",
+            "designation": "Écran solaire haute protection SPF100+ qui prévient et soulage les symtômes associés aux allergies solaires et autres formes de photodermatose.",
+            "prixVente": 80,
+            "image": "https://www.isdin.com/sites/default/files/productos/imagenes/fr_0095_th_fusolarallergy50ml_main_image_0.jpg?v=1713341866"
+        },
+        {
+            "id": 9,
+            "reference": "Fotoprotector Fusion Water MAGIC Medium SPF 50            ",
+            "designation": "Crème solaire visage teintée ultra-légère, idéale pour protéger les peaux claires à medium des rayons UV au quotidien et unifier le teint.",
+            "prixVente": 69,
+            "image": "https://www.isdin.com/sites/default/files/productos/imagenes/es_3227_th_fwmagiccolormedium50ml_main_image_0_3.jpg?v=1715325763"
+        },
+        {
+            "id": 10,
+            "reference": "Fotoultra 100 Active Unify SPF 50+",
+            "designation": "Écran solaire à l'effet dépigmentant qui éclaircit et unifie le teint",
+            "prixVente": 115,
+            "image": "https://www.isdin.com/sites/default/files/productos/imagenes/fr_1160_th_fuactiveunifyspf5050ml_main_image_0.jpg?v=1713339941"
+        },
+        {
+            "id": 11,
+            "reference": "Fotoultra 100 Active Unify COLOR SPF 50+",
+            "designation": "Écran solaire à l'effet dépigmentant qui éclaircit et unifie le teint. Dissimule les imperfections et donne un effet bonne mine aux peaux claires à medium.",
+            "prixVente": 92,
+            "image": "https://www.isdin.com/sites/default/files/productos/imagenes/es_0131_th_fuactiveunifycolorspf5050ml_main_image_0_1.jpg?v=1713340307"
+        },
+        {
+            "id": 12,
+            "reference": "Fotoultra 100 Active Unify COLOR SPF 50+",
+            "designation": "Écran solaire à l'effet dépigmentant qui éclaircit et unifie le teint. Dissimule les imperfections et donne un effet bonne mine aux peaux claires à medium.",
+            "prixVente": 80,
+            "image": "https://www.isdin.com/sites/default/files/productos/imagenes/es_0131_th_fuactiveunifycolorspf5050ml_main_image_0_1.jpg?v=1713340307"
+        },
+        {
+            "id": 13,
+            "reference": "Fotoprotector Fusion Water MAGIC Light SPF 50",
+            "designation": "Crème solaire visage teintée ultra-légère, idéale pour protéger les peaux claires des rayons UV au quotidien et unifier le teint.",
+            "prixVente": 69,
+            "image": "https://www.isdin.com/sites/default/files/productos/imagenes/es_3976_th_fwmagiccolorlight50ml_main_image_0_2.jpg?v=1715325931"
+        },
+        {
+            "id": 14,
+            "reference": "Fusion Water MAGIC Repair Color SPF 50",
+            "designation": "Crème solaire visage teintée anti-âge à la texture ultra-légère, qui hydrate et unifie le teint. Idéale comme protection solaire au quotidien.",
+            "prixVente": 70,
+            "image": "https://www.isdin.com/sites/default/files/productos/imagenes/fr_3379_th_fuagerepaircolorspf5050ml_main_image_0.jpg?v=1713339061"
+        }
+    ],
+    "Sérums et Ampoules": [
+        {
+            "id": 1,
+            "reference": "Isdinceutics Retinal Smooth",
+            "designation": "Sérum biphasé de nuit à base de rétinaldéhyde pour les premières lignes d’expression",
+            "prixVente": 82,
+            "image": "https://www.isdin.com/sites/default/files/productos/imagenes/thumbnail_web-es_4565_th_isdinceuticsretinalsmooth50ml_main_image_0.jpg?v=1727774033"
+        },
+        {
+            "id": 2,
+            "reference": "Isdinceutics Éco-Recharge Melaclear",
+            "designation": "Sérum anti-taches à base d’acide tranexamique. 71% de taches en moins.¹",
+            "prixVente": 75,
+            "image": "https://www.isdin.com/sites/default/files/productos/imagenes/fr_4324_th_isdinceuticsrefillmelaclear_main_0.jpg?v=1721813556"
+        },
+        {
+            "id": 3,
+            "reference": "Isdinceutics Melaclear",
+            "designation": "Sérum anti-taches à base d’acide tranexamique. 71% de taches en moins.¹",
+            "prixVente": 70,
+            "image": "https://www.isdin.com/sites/default/files/productos/imagenes/es_3371_th_melaclear_30ml_mainamazon_0.jpg?v=1692802164"
+        },
+        {
+            "id": 4,
+            "reference": "Isdinceutics Flavo-C Melatonin & Ultraglican",
+            "designation": "Pour une peau protégée pendant la journée et réparée pendant la nuit.",
+            "prixVente": 91,
+            "image": "https://www.isdin.com/sites/default/files/productos/imagenes/fr_thumbnails_rutina-antioxidante-_ampollas_1_foto_white-background.jpg?v=1615567098"
+        },
+        {
+            "id": 5,
+            "reference": "Isdinceutics Instant Flash",
+            "designation": "Solution pour le visage sous forme d’ampoules avec un ensemble de principes actifs avancés qui favorisent un effet lifting immédiat et prolongé jusqu’à 8 heures qui rajeunit l’apparence du visage.",
+            "prixVente": 96,
+            "image": "https://www.isdin.com/sites/default/files/productos/imagenes/fr_thumbnails_instant-flash_1_render_white-background.jpg?v=1615567555"
+        },
+        {
+            "id": 6,
+            "reference": "Isdinceutics Flavo-C",
+            "designation": "Puissant sérum antioxydant formulé pour que sa vitamine C reste sur votre peau jusqu'à 8 heures",
+            "prixVente": 69,
+            "image": "https://www.isdin.com/sites/default/files/productos/imagenes/es_thumbnails_flavo-c_1_foto.png?v=1611835253"
+        },
+        {
+            "id": 7,
+            "reference": "Isdinceutics Glicoisdin 25 Intense",
+            "designation": "Gel effet peeling pour le visage.",
+            "prixVente": 70,
+            "image": "https://www.isdin.com/sites/default/files/productos/imagenes/fr_thumbnails_glicoisdin-gel25_1_render.png?v=1628581955"
+        },
+        {
+            "id": 8,
+            "reference": "Isdinceutics Glicoisdin 15 Moderate",
+            "designation": "Gel peeling pour le visage formulé avec 15 % d’acide glycolique partiellement neutralisé (équivalent à 6,1 % d’acide glycolique libre) qui exfolie la surface de la peau comme un gommage",
+            "prixVente": 83,
+            "image": "https://www.isdin.com/sites/default/files/productos/imagenes/fr_thumbnails_glicoisdin-gel15_1_render.png?v=1628581795"
+        },
+        {
+            "id": 9,
+            "reference": "Isdinceutics Retinal Intense",
+            "designation": "Sérum de nuit à base de rétinaldéhyde qui réduit les rides jusqu'à -43% après 4 semaines d’utilisation",
+            "prixVente": 98,
+            "image": "https://www.isdin.com/sites/default/files/productos/imagenes/thumbnail_web-es_4140_th_retinal_intense_main_0_0.jpg?v=1689748147"
+        },
+        {
+            "id": 10,
+            "reference": "Isdinceutics Flavo-C Forte",
+            "designation": "Sérum anti-âge intense avec 15% de vitamine C pure et fraîche",
+            "prixVente": 113,
+            "image": "https://www.isdin.com/sites/default/files/productos/imagenes/fr_thumbnails_flavo-c_forte_1u_1_render.jpg?v=1649255681"
+        },
+        {
+            "id": 11,
+            "reference": "Isdinceutics Hyaluronic Concentrate",
+            "designation": "Sérum léger ultra-hydratant",
+            "prixVente": 65,
+            "image": "https://www.isdin.com/sites/default/files/productos/imagenes/fr_thumbnails_hyaluronic-concentrate_1_render.png?v=1646841299"
+        },
+        {
+            "id": 12,
+            "reference": "Isdinceutics Flavo-C Melatonin",
+            "designation": "Seum réparateur de nuit sous forme d'ampoules qui agit durant le sommeil en stimulant les défenses antioxydantes de la peau.",
+            "prixVente": 115,
+            "image": "https://www.isdin.com/sites/default/files/productos/imagenes/fr_thumbnails_flavo-c-melatonin_1_foto_white-background.jpg?v=1615567207"
+        },
+        {
+            "id": 13,
+            "reference": "Isdinceutics Day&Night Routine anti-taches",
+            "designation": "Routine complète anti-taches avec sérum de jour correcteur dépigmentant et peeling exfoliant de nuit.",
+            "prixVente": 95,
+            "image": "https://www.isdin.com/sites/default/files/productos/imagenes/fr_thumbnails_rutina-pigment-expert-night-peel_1_foto_white-background.jpg?v=1615567423"
+        },
+        {
+            "id": 15,
+            "reference": "Isdinceutics Night Peel",
+            "designation": "Attenue les imperfections, réduit les rides et les lignes d’expression. La peau parait rajeunie. ",
+            "prixVente": 63,
+            "image": "https://www.isdin.com/sites/default/files/productos/imagenes/night_peel_30und_ampollas.jpg?v=1538382765"
+        },
+        {
+            "id": 16,
+            "reference": "Isdinceutics Pigment Expert",
+            "designation": "Corrige les imperfections, réduit la taille et le nombre des taches. La peau est plus lumineuse.",
+            "prixVente": 98,
+            "image": "https://www.isdin.com/sites/default/files/productos/imagenes/thumbnail-pigment-expert-01_v3.jpg?v=1563816573"
+        },
+        {
+            "id": 17,
+            "reference": "Isdinceutics Flavo-C Ultraglican",
+            "designation": "Sérum antioxydant visage à base de vitamine C",
+            "prixVente": 250,
+            "image": "https://www.isdin.com/sites/default/files/productos/imagenes/fr_thumbnails_flavo-c-ultraglican_1_foto_30u_white_background.jpg?v=1615568145"
+        }
+    ],
+    "Creme Visage": [
+        {
+            "id": 1,
+            "reference": "Isdinceutics A.G.E. Reverse Day",
+            "designation": "Crème de jour remodelante à la triple action anti-âge",
+            "prixVente": 59,
+            "image": "https://www.isdin.com/sites/default/files/productos/imagenes/es_thumbnails_a.g.e.-reverse-day_1_foto_0.png?v=1640186931"
+        },
+        {
+            "id": 2,
+            "reference": "Isdinceutics Glicoisdin 8 Soft",
+            "designation": "Crème effet peeling pour le visage.",
+            "prixVente": 165,
+            "image": "https://www.isdin.com/sites/default/files/productos/imagenes/fr_thumbnails_glicoisdin-crema8_1_render.png?v=1628582079"
+        },
+        {
+            "id": 3,
+            "reference": "Isdinceutics Hyaluronic Moisture Oily and Combination Skin",
+            "designation": "Crème visage hydratante et matifiante à base d'acide hyaluronique pour les peaux grasses et mixtes",
+            "prixVente": 140,
+            "image": "https://www.isdin.com/sites/default/files/productos/imagenes/es_4056_th_hmoily_main_0.jpg?v=1683733642"
+        },
+        {
+            "id": 4,
+            "reference": "Isdinceutics Hyaluronic Moisture Peaux Sensibles",
+            "designation": "Crème visage légère à base d’acide hyaluronique pour les peaux sensibles et sujettes aux rougeurs.",
+            "prixVente": 160,
+            "image": "https://www.isdin.com/sites/default/files/productos/imagenes/fr_4054_th_isdinceuticshyaluronicmoisturesensitive-50g_main_image_0.jpg?v=1721831253"
+        },
+        {
+            "id": 5,
+            "reference": "Isdinceutics Hyaluronic Moisture Peaux Normales à Sèches",
+            "designation": "Crème visage hydratante légère à base d’acide hyaluronique pour les peaux normales à sèches.",
+            "prixVente": 140,
+            "image": "https://www.isdin.com/sites/default/files/productos/imagenes/fr_4052_th_isdinceuticshamoisturerisenormal50g_main_image_awards_0_0.jpg?v=1721830651"
+        },
+        {
+            "id": 6,
+            "reference": "Isdinceutics A.G.E. Reverse Night",
+            "designation": "Crème de nuit anti-âge à base de mélatonine.",
+            "prixVente": 99,
+            "image": "https://www.isdin.com/sites/default/files/productos/imagenes/es_thumbnails_a.g.e.-reverse-night_1_foto.png?v=1611836640"
+        }
+    ],
+    "Traitements spécifiques": [
+        {
+            "id": 1,
+            "reference": "Isdinceutics Auriderm",
+            "designation": "Crème de soin à base de vitamine K Oxyde, atténuant les ecchymoses et les rougeurs post intervention.",
+            "prixVente": 85,
+            "image": "https://www.isdin.com/sites/default/files/productos/imagenes/auriderm.jpg?v=1443130110"
+        }
+    ],
+    "Soin des ongles": [
+        {
+            "id": 1,
+            "reference": "Isdin Si-Nails Renforçateur d’ongles",
+            "designation": "Des ongles parfaits en un clic. Des résultats visibles en 14 jours.",
+            "prixVente": 100,
+            "image": "https://www.isdin.com/sites/default/files/productos/imagenes/fr_3451_th_sinailsvarnish_mainsales_0.jpg?v=1700040322"
+        }
+    ],
+    "Protection solaire": [
+        {
+            "id": 1,
+            "reference": "Fotoultra Redness SPF 50",
+            "designation": "Crème solaire visage pour les peaux sensibles qui corrige et aide à prévenir les rougeurs de la peau",
+            "prixVente": 95,
+            "image": "https://www.isdin.com/sites/default/files/productos/imagenes/es_4186_th_furednessspf5050ml_main_image_0.jpg?v=1709823721"
+        },
+        {
+            "id": 2,
+            "reference": "ISDIN Eryfotona® Night",
+            "designation": "Sérum de nuit qui aide à réparer les dommages dus au soleil et favorise le renouvellement de la peau",
+            "prixVente": 98,
+            "image": "https://www.isdin.com/sites/default/files/productos/imagenes/es_1349_th_eryfotonanight50ml_main_image_0.png?v=1707998986"
+        },
+        {
+            "id": 3,
+            "reference": "Fotoultra 100 Spot Prevent Color SPF 50+",
+            "designation": "Crème solaire visage teintée pour tous les jours qui aide à prévenir les taches dues au soleil",
+            "prixVente": 65,
+            "image": "https://www.isdin.com/sites/default/files/productos/imagenes/es_1349_th_fuspotpreventcolorspf5050ml_main_image_0.png?v=1707993535"
+        },
+        {
+            "id": 4,
+            "reference": "Fotoprotector Invisible Stick SPF 50",
+            "designation": "Crème solaire invisible en stick pour les zones sensibles au soleil, à l’application facile et pratique.",
+            "prixVente": 87,
+            "image": "https://www.isdin.com/sites/default/files/productos/imagenes/fr_4347_th_fpinvisiblestickspf5010g_main_image_0.jpg?v=1715869982"
+        },
+        {
+            "id": 5,
+            "reference": "Fusion Water MAGIC GLOW SPF 30",
+            "designation": "Crème solaire visage à la texture ultra-légère effet glow",
+            "prixVente": 73,
+            "image": "https://www.isdin.com/sites/default/files/productos/imagenes/es_1349_th_fpfwmagicglowspf3050ml_main_image_0.jpg?v=1707916295"
+        },
+        {
+            "id": 6,
+            "reference": "Fotoprotector ISDIN Hydro Oil SPF 30",
+            "designation": "Lotion-huile solaire pour le corps SPF 30 biphasée qui protège et aide au bronzage de la peau.",
+            "prixVente": 87,
+            "image": "https://www.isdin.com/sites/default/files/productos/imagenes/fr_3380_th_fphydrooilspf30200ml_main_0jpg.jpg?v=1715869834"
+        }
+    ],
+    "Hygiène et Santé": [
+        {
+            "id": 1,
+            "reference": "ISDIN Shampoo Shampooing anti-pellicules grasses",
+            "designation": "Shampooing antipelliculaire pour dermatite séborrhéique. Réduit la desquamation, les démangeaisons et l'excès de sébum du cuir chevelu.",
+            "prixVente": 64,
+            "image": "https://www.isdin.com/sites/default/files/productos/imagenes/fr-thumbnails_23_ene_nutradeica-champu-caspa-grasa-400ml_0.jpg?v=1673350208"
+        }
+    ],
+    "Peau grasse": [
+        {
+            "id": 1,
+            "reference": "ISDIN Shampoo Shampooing anti-pellicules grasses",
+            "designation": "Shampooing antipelliculaire pour dermatite séborrhéique. Réduit la desquamation, les démangeaisons et l'excès de sébum du cuir chevelu.",
+            "prixVente": 99,
+            "image": "https://www.isdin.com/sites/default/files/productos/imagenes/fr-thumbnails_23_ene_nutradeica-champu-caspa-grasa-400ml_0.jpg?v=1673350208"
+        },
+        {
+            "id": 2,
+            "reference": "Nutradeica Gel crème visage Peau séborrhéique",
+            "designation": "Profitez tous les jours d'un visage sans rougeurs ni desquamation",
+            "prixVente": 63,
+            "image": "https://www.isdin.com/sites/default/files/productos/imagenes/be-thumbnails_nutradeica-gel-crema-facial-50ml_1_render_1.jpg?v=1628582867"
+        }
+    ],
+    "Traitement verrues": [
+        {
+            "id": 1,
+            "reference": "Verrutop",
+            "designation": "Traitement indolore des verrues. Efficace, précis et facile à appliquer.",
+            "prixVente": 266,
+            "image": "https://www.isdin.com/sites/default/files/productos/imagenes/verrutop.jpg?v=1459933825"
+        }
+    ],
+    "Infections": [
+        {
+            "id": 1,
+            "reference": "Germisdin Original Hygiène corporelle pour un usage quotidien",
+            "designation": "Gel de bain sans savon avec agents antimicrobiens, idéal pour une hygiène cutanée respectueuse et pour limiter la prolifération bactérienne.",
+            "prixVente": 77,
+            "image": "https://www.isdin.com/sites/default/files/productos/imagenes/germisdin_250_original.jpg?v=1615364159"
+        }
+    ]
+}
+
+               
+    
